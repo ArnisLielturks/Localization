@@ -1,0 +1,6 @@
+# Lines starting with '#' will be ignored by our parser
+#
+# Dummy data
+#NAME		TEXT
+GREETING	Hello there
+GOODBYE		Bye bye
